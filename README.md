@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Heman-06&theme=" alt="Heman-06" /></a> </p>
 
 - 🔭 I’m currently working on **Full Stack E-Commerce Application**
-- 💬 Ask me about **React, Spring Boot, Spring MVC , Micro Services**
+- 💬 Ask me about **React,JavaScript, Nodejs, ExpressJs, Flutter , Dart, Spring Boot, Spring MVC , Micro Services**
 - 📫 How to reach me **hemantblp123@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/Heman-06**
 
