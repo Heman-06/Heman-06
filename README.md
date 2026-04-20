@@ -5,7 +5,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Heman-06&label=Profile%20views&color=0e75b6&style=flat-square" alt="Heman-06" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Heman-06&theme=radical&no-bg=true&column=7" alt="Heman-06" /></a>
 </p>
 
 ### 💫 About Me
