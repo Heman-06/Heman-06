@@ -35,7 +35,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics & Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Heman-06&theme=react-dark&area=true&hide_border=true&bg_color=1F222E&color=61dafb&line=61dafb&point=61dafb" width="100%" />
+</div>
+
+<br />
 
 <div align="center">
   <table border="0">
@@ -48,7 +54,10 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
+      <td>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Heman-06&theme=2077" width="400px" />
+      </td>
+      <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heman-06&layout=compact&theme=react&bg_color=1F222E&title_color=61dafb&hide_border=true" width="400px" />
       </td>
     </tr>
