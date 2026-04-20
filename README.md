@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm Hemant Asthana</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;E-Commerce+Enthusiast;Microservices+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Software+Engineer+@+FLY+YOURTECH;Full+Stack+Developer;Web+%26+Mobile+Specialist;Microservices+%26+Cloud+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -9,10 +9,13 @@
 </p>
 
 ### 💫 About Me
-- 🔭 I’m currently working on **Full Stack E-Commerce Application**
-- 💬 Ask me about **React, JavaScript, Nodejs, Expressjs, Flutter, Dart, Spring Boot, Spring MVC, Micro Services**
-- 📫 How to reach me **hemantblp123@gmail.com**
-- 👨‍💻 All of my projects are available at **[github.com/Heman-06](https://github.com/Heman-06)**
+I'm a **Software Engineer at FLY YOURTECH**, specializing in building high-quality web and mobile applications. With expertise in React.js, Next.js, Flutter, and Node.js, I develop scalable solutions across platforms.
+
+- 🔭 I’m currently working on **Full Stack E-Commerce & Business Platforms**
+- 🎓 B.Tech in **Computer Science** from Vision Institute of Technology
+- 💬 Ask me about **React, Next.js, Flutter, Node.js, Express, Microservices & Firebase**
+- 📫 Reach me at **hemantblp123@gmail.com**
+- 👨‍💻 Portfolio: **[github.com/Heman-06](https://github.com/Heman-06)**
 
 <div align="center">
   <a href="https://github.com/Heman-06" target="_blank">
@@ -28,7 +31,7 @@
 ### 🛠️ Languages and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,bootstrap,react,html,redux,css,spring,nodejs,express,mongodb,mysql,heroku,docker,jenkins,aws,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,dart,nextjs,react,flutter,threejs,tailwind,html,css,nodejs,express,spring,mongodb,postgres,mysql,redis,firebase,docker,jenkins,aws,git,github,postman&theme=dark" />
   </a>
 </p>
 
@@ -36,13 +39,12 @@
 
 ### 📊 Github Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heman-06&langs_count=8&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heman-06&show_icons=true&locale=en&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Heman-06&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heman-06&langs_count=8&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heman-06&show_icons=true&locale=en&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Heman-06&theme=radical&hide_border=true" />
 </div>
 
 <br/>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
